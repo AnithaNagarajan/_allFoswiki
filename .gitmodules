@@ -1,0 +1,128 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/foswiki/core.git
+	branch = master
+[submodule "AutoViewTemplatePlugin"]
+	path = AutoViewTemplatePlugin
+	url = https://github.com/foswiki/AutoViewTemplatePlugin.git
+	branch = master
+[submodule "CompareRevisionsAddOn"]
+	path = CompareRevisionsAddOn
+	url = https://github.com/foswiki/CompareRevisionsAddOn.git
+	branch = master
+[submodule "CommentPlugin"]
+	path = CommentPlugin
+	url = https://github.com/foswiki/CommentPlugin
+	branch = master
+[submodule "EditRowPlugin"]
+	path = EditRowPlugin
+	url = https://github.com/foswiki/EditRowPlugin
+	branch = master
+[submodule "EmptyPlugin"]
+	path = EmptyPlugin
+	url = https://github.com/foswiki/EmptyPlugin
+	branch = master
+[submodule "FamFamFamContrib"]
+	path = FamFamFamContrib
+	url = https://github.com/foswiki/FamFamFamContrib
+	branch = master
+[submodule "HistoryPlugin"]
+	path = HistoryPlugin
+	url = https://github.com/foswiki/HistoryPlugin
+	branch = master
+[submodule "HomePagePlugin"]
+	path = HomePagePlugin
+	url = https://github.com/foswiki/HomePagePlugin
+	branch = master
+[submodule "InterwikiPlugin"]
+	path = InterwikiPlugin
+	url = https://github.com/foswiki/InterwikiPlugin
+	branch = master
+[submodule "JEditableContrib"]
+	path = JEditableContrib
+	url = https://github.com/foswiki/JEditableContrib
+	branch = master
+[submodule "JSCalendarContrib"]
+	path = JSCalendarContrib
+	url = https://github.com/foswiki/JSCalendarContrib
+	branch = master
+[submodule "JQueryPlugin"]
+	path = JQueryPlugin
+	url = https://github.com/foswiki/JQueryPlugin
+	branch = master
+[submodule "MailerContrib"]
+	path = MailerContrib
+	url = https://github.com/foswiki/MailerContrib
+	branch = master
+[submodule "NatEditPlugin"]
+	path = NatEditPlugin
+	url = https://github.com/foswiki/NatEditPlugin
+	branch = master
+[submodule "PatternSkin"]
+	path = PatternSkin
+	url = https://github.com/foswiki/PatternSkin
+	branch = master
+[submodule "PlainFileStoreContrib"]
+	path = PlainFileStoreContrib
+	url = https://github.com/foswiki/PlainFileStoreContrib
+	branch = master
+[submodule "PreferencesPlugin"]
+	path = PreferencesPlugin
+	url = https://github.com/foswiki/PreferencesPlugin
+	branch = master
+[submodule "RCSStoreContrib"]
+	path = RCSStoreContrib
+	url = https://github.com/foswiki/RCSStoreContrib
+	branch = master
+[submodule "RenderListPlugin"]
+	path = RenderListPlugin
+	url = https://github.com/foswiki/RenderListPlugin
+	branch = master
+[submodule "SlideShowPlugin"]
+	path = SlideShowPlugin
+	url = https://github.com/foswiki/SlideShowPlugin
+	branch = master
+[submodule "SmiliesPlugin"]
+	path = SmiliesPlugin
+	url = https://github.com/foswiki/SmiliesPlugin
+	branch = master
+[submodule "SpreadSheetPlugin"]
+	path = SpreadSheetPlugin
+	url = https://github.com/foswiki/SpreadSheetPlugin
+	branch = master
+[submodule "SubscribePlugin"]
+	path = SubscribePlugin
+	url = https://github.com/foswiki/SubscribePlugin
+	branch = master
+[submodule "TablePlugin"]
+	path = TablePlugin
+	url = https://github.com/foswiki/TablePlugin
+	branch = master
+[submodule "TinyMCEPlugin"]
+	path = TinyMCEPlugin
+	url = https://github.com/foswiki/TinyMCEPlugin
+	branch = master
+[submodule "TipsContrib"]
+	path = TipsContrib
+	url = https://github.com/foswiki/TipsContrib
+	branch = master
+[submodule "TopicUserMappingContrib"]
+	path = TopicUserMappingContrib
+	url = https://github.com/foswiki/TopicUserMappingContrib
+	branch = master
+[submodule "TWikiCompatibilityPlugin"]
+	path = TWikiCompatibilityPlugin
+	url = https://github.com/foswiki/TWikiCompatibilityPlugin
+	branch = master
+[submodule "UpdatesPlugin"]
+	path = UpdatesPlugin
+	url = https://github.com/foswiki/UpdatesPlugin
+	branch = master
+[submodule "TwistyPlugin"]
+	path = TwistyPlugin
+	url = https://github.com/foswiki/TwistyPlugin
+	branch = master
+[submodule "WysiwygPlugin"]
+	path = WysiwygPlugin
+	url = https://github.com/foswiki/WysiwygPlugin
+	branch = master
