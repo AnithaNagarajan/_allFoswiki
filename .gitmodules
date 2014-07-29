@@ -1,100 +1,84 @@
-[submodule "core"]
-	path = core
-	url = git@github.com:foswiki/core.git
-	branch = Release01x01
-[submodule "AutoViewTemplatePlugin"]
-	path = AutoViewTemplatePlugin
-	url = git@github.com:foswiki/AutoViewTemplatePlugin.git
-	branch = Release01x01
-[submodule "CompareRevisionsAddOn"]
-	path = CompareRevisionsAddOn
-	url = git@github.com:foswiki/CompareRevisionsAddOn.git
-	branch = Release01x01
+[submodule "BehaviourContrib"]
+	path = BehaviourContrib
+	url = git@github.com:foswiki/BehaviourContrib.git
+	branch = Release01x00
 [submodule "CommentPlugin"]
 	path = CommentPlugin
 	url = git@github.com:foswiki/CommentPlugin.git
-	branch = Release01x01
+	branch = Release01x00
+[submodule "core"]
+	path = core
+	url = git@github.com:foswiki/core.git
+	branch = Release01x00
+[submodule "EditTablePlugin"]
+	path = EditTablePlugin
+	url = git@github.com:foswiki/EditTablePlugin.git
+	branch = Release01x00
 [submodule "EmptyPlugin"]
 	path = EmptyPlugin
 	url = git@github.com:foswiki/EmptyPlugin.git
-	branch = Release01x01
-[submodule "FamFamFamContrib"]
-	path = FamFamFamContrib
-	url = git@github.com:foswiki/FamFamFamContrib.git
-	branch = Release01x01
-[submodule "HistoryPlugin"]
-	path = HistoryPlugin
-	url = git@github.com:foswiki/HistoryPlugin.git
-	branch = Release01x01
+	branch = Release01x00
 [submodule "InterwikiPlugin"]
 	path = InterwikiPlugin
 	url = git@github.com:foswiki/InterwikiPlugin.git
-	branch = Release01x01
+	branch = Release01x00
 [submodule "JSCalendarContrib"]
 	path = JSCalendarContrib
 	url = git@github.com:foswiki/JSCalendarContrib.git
-	branch = Release01x01
-[submodule "JQueryPlugin"]
-	path = JQueryPlugin
-	url = git@github.com:foswiki/JQueryPlugin.git
-	branch = Release01x01
+	branch = Release01x00
 [submodule "MailerContrib"]
 	path = MailerContrib
 	url = git@github.com:foswiki/MailerContrib.git
-	branch = Release01x01
-[submodule "PatchFoswikiContrib"]
-	path = PatchFoswikiContrib
-	url = git@github.com:foswiki/PatchFoswikiContrib.git
-	branch = Release01x01
+	branch = Release01x00
 [submodule "PatternSkin"]
 	path = PatternSkin
 	url = git@github.com:foswiki/PatternSkin.git
-	branch = Release01x01
+	branch = Release01x00
 [submodule "PreferencesPlugin"]
 	path = PreferencesPlugin
 	url = git@github.com:foswiki/PreferencesPlugin.git
-	branch = Release01x01
+	branch = Release01x00
 [submodule "RenderListPlugin"]
 	path = RenderListPlugin
 	url = git@github.com:foswiki/RenderListPlugin.git
-	branch = Release01x01
+	branch = Release01x00
 [submodule "SlideShowPlugin"]
 	path = SlideShowPlugin
 	url = git@github.com:foswiki/SlideShowPlugin.git
-	branch = Release01x01
+	branch = Release01x00
 [submodule "SmiliesPlugin"]
 	path = SmiliesPlugin
 	url = git@github.com:foswiki/SmiliesPlugin.git
-	branch = Release01x01
+	branch = Release01x00
 [submodule "SpreadSheetPlugin"]
 	path = SpreadSheetPlugin
 	url = git@github.com:foswiki/SpreadSheetPlugin.git
-	branch = Release01x01
+	branch = Release01x00
 [submodule "TablePlugin"]
 	path = TablePlugin
 	url = git@github.com:foswiki/TablePlugin.git
-	branch = Release01x01
+	branch = Release01x00
 [submodule "TinyMCEPlugin"]
 	path = TinyMCEPlugin
 	url = git@github.com:foswiki/TinyMCEPlugin.git
-	branch = Release01x01
+	branch = Release01x00
 [submodule "TipsContrib"]
 	path = TipsContrib
 	url = git@github.com:foswiki/TipsContrib.git
-	branch = Release01x01
+	branch = Release01x00
 [submodule "TopicUserMappingContrib"]
 	path = TopicUserMappingContrib
 	url = git@github.com:foswiki/TopicUserMappingContrib.git
-	branch = Release01x01
+	branch = Release01x00
 [submodule "TWikiCompatibilityPlugin"]
 	path = TWikiCompatibilityPlugin
 	url = git@github.com:foswiki/TWikiCompatibilityPlugin.git
-	branch = Release01x01
+	branch = Release01x00
 [submodule "TwistyPlugin"]
 	path = TwistyPlugin
 	url = git@github.com:foswiki/TwistyPlugin.git
-	branch = Release01x01
+	branch = Release01x00
 [submodule "WysiwygPlugin"]
 	path = WysiwygPlugin
 	url = git@github.com:foswiki/WysiwygPlugin.git
-	branch = Release01x01
+	branch = Release01x00
