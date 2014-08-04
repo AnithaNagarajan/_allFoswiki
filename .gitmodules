@@ -14,6 +14,10 @@
 	path = CommentPlugin
 	url = git@github.com:foswiki/CommentPlugin.git
 	branch = master
+[submodule "ConfigureContrib"]
+	path = ConfigureContrib
+	url = git@github.com:foswiki/ConfigureContrib.git
+	branch = master
 [submodule "EditRowPlugin"]
 	path = EditRowPlugin
 	url = git@github.com:foswiki/EditRowPlugin.git
