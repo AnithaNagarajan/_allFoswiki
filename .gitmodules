@@ -16,7 +16,7 @@
 	branch = Release01x01
 [submodule "EditTablePlugin"]
 	path = EditTablePlugin
-	url = git@github.com:foswiki/EditTablePlugin.git
+	url = git@github.com:foswiki/EditTablePlugin
 	branch = Release01x01
 [submodule "EmptyPlugin"]
 	path = EmptyPlugin
