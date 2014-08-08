@@ -130,3 +130,7 @@
 	path = WysiwygPlugin
 	url = git@github.com:foswiki/WysiwygPlugin.git
 	branch = master
+[submodule "FoswikiOrgPlugin"]
+	path = FoswikiOrgPlugin
+	url = git@github.com:foswiki/FoswikiOrgPlugin
+	branch = master
